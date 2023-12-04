@@ -8,8 +8,8 @@ To run the Game Center program, follow these steps:
 
 copy the raw code and use Dev c++ compiler to run my code.
 
-## Algorithm
-Tic Tac Toe Algorithm
+# Algorithm
+## Tic Tac Toe Algorithm
 Initialize the Tic Tac Toe board:
 
 Create a 3x3 grid to represent the board.
@@ -37,7 +37,8 @@ End of the game:
 
 Display the final board state.
 Declare the winner or announce a draw.
-Rock-Paper-Scissors Algorithm
+
+## Rock Paper Scissor Algorithm
 Display game introduction:
 
 Print the instructions for Rock-Paper-Scissors.
